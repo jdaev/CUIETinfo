@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/syl"
+            android:title="Syllabus" />
+        <item
+            android:id="@+id/qp"
+            android:title="Question Papers" />
+    </group>
+
+    <item android:title="Important Links :">
+        <menu>
+            <item
+                android:id="@+id/ures"
+                android:title="University Results" />
+            <item
+                android:id="@+id/unot"
+                android:title="University Notifications" />
+            <item
+                android:id="@+id/colnot"
+                android:title="College Notifications" />
+            <item
+                android:id="@+id/tt"
+                android:title="Exam Timetables" />
+        </menu>
+    </item>
+
+</menu>

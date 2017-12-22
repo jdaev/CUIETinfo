@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CUIET/info</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hpass">PASSWORD</string>
+    <string name="hregno">REGISTER NUMBER</string>
+    <string name="hlog">LOG IN</string>
+    <string name="load">LOADING...</string>
+    <string name="about">CUIET/info v1.1\n\nChangelog 18/12/17 :\nFixed force close when logging in while offline.\nFixed force close on anomalous response from server.\nMinor text fixes.\nAdded links to question papers and exam timetables.\n\n\n\nMade by Javed Hussain\n\n\nI couldn\'t find ant PT question papers anywhere\nIf anyone wants me to include those please send  links or pdf to\njdhn42@gmail.com\nSuggetions for features and improvements are welcome.\n</string>
+    <string name="title_activity_syllabus">Syllabus</string>
+    <string name="s1s2"><![CDATA[Semester 1 & Semester 2 Common]]></string>
+    <string name="me">Mechanical</string>
+    <string name="fsss"><![CDATA[First & Second Semesters]]></string>
+    <string name="ec"><![CDATA[Electronics & Communication]]></string>
+    <string name="eee"><![CDATA[Electrical & Electronics]]></string>
+    <string name="pt">Printing Technology</string>
+    <string name="it">Information Technology</string>
+    <string name="caluni">Calicut University</string>
+    <string name="iet">Institute Of Engineering and Technology</string>
+
+</resources>
